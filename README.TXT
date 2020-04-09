@@ -1,4 +1,6 @@
-Open favorite bash and :
+Made with Ubuntu 18.04.
+With Ubuntu, Java openJDK 8 installed or else. 
+Open bash and :
 make compile run
 
 You don't want to play anymore :
